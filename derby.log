@@ -1,0 +1,27 @@
+Mon Feb 06 18:38:07 CET 2023 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Mon Feb 06 18:38:54 CET 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0186-27ce-776c-00002d02db51 
+on database directory C:\Users\basti\Desktop\schule\4KL\Programmieren\15\FUebung\db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2a139a55 
+Loaded from file:/C:/Users/basti/Desktop/schule/4KL/Programmieren/glassfish5/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.3.1+2-LTS-6
+user.dir=C:\Users\basti\Desktop\schule\4KL\Programmieren\15\FUebung
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\basti\Desktop\schule\4KL\Programmieren\15\FUebung
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Feb 06 18:38:55 CET 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 48d7402a-0186-27ce-776c-00002d02db51 
+on database directory C:\Users\basti\Desktop\schule\4KL\Programmieren\15\FUebung\patient with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2a139a55 
+Loaded from file:/C:/Users/basti/Desktop/schule/4KL/Programmieren/glassfish5/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.3.1+2-LTS-6
+user.dir=C:\Users\basti\Desktop\schule\4KL\Programmieren\15\FUebung
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\basti\Desktop\schule\4KL\Programmieren\15\FUebung
+Database Class Loader started - derby.database.classpath=''
